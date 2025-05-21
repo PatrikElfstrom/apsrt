@@ -1,0 +1,8 @@
+
+node_modules/
+
+.tsmorph-cache.json
+
+script/__snapshots__/
+
+.DS_Store
